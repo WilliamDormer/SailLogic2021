@@ -3,6 +3,7 @@ Navigation logic for the 2020/2021 season.
 
 # Contributors
 Mitch Broeders - 15mjlb@queensu.ca
+William Dormer - 19wimd@queensu.ca
 
 # TODO
 Update this with anything you find useful. Especially solutions relating to setup.
